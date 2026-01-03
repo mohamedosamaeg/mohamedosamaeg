@@ -1,45 +1,61 @@
-# Mohamed Selim 👋
+<h1 align="center">Mohamed Selim</h1>
+<h3 align="center">Junior Software Developer | Software Engineering Graduate</h3>
 
-**Junior Software Developer**  
-Software Engineering Graduate — Ural Federal University  
-📍 Yekaterinburg, Russia
+<p align="center">
+📍 Yekaterinburg, Russia  
+</p>
 
----
-
-## 👨‍💻 About Me
-Junior Software Developer with a solid foundation in Software Engineering.  
-Focused on **Web Development** and **Machine Learning**, with a strong interest in building clean, scalable, and efficient software solutions.
-
----
-
-## 🛠 Technical Skills
-- **Languages:** Python · JavaScript · TypeScript  
-- **Frontend:** React  
-- **Backend:** Node.js · Express · Django  
-- **Machine Learning:** PyTorch  
-- **Databases:** SQL  
+<p align="center">
+<a href="https://www.linkedin.com/in/mohamed-selim-249109239">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat&logo=linkedin"/>
+</a>
+<a href="mailto:mohamedosamaegy1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-important?style=flat&logo=gmail"/>
+</a>
+</p>
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Web Application Project
-A web-based application designed with clean architecture and practical problem-solving in mind.  
-Built using modern web technologies, focusing on performance, scalability, and code clarity.
-
-**Tech Stack:** React · Node.js · Express · SQL
+## 🚀 About Me
+Software Engineering graduate from **Ural Federal University** with a strong foundation in building reliable and scalable software.  
+Currently focused on **Web Development** and **Machine Learning**, aiming to turn ideas into production-ready solutions.
 
 ---
 
-### 🔹 Machine Learning / University Project
-A machine learning project developed during university studies, applying theoretical concepts to real-world data.  
-Focused on model training, evaluation, and experimentation.
-
-**Tech Stack:** Python · PyTorch · SQL
+## 🧠 Core Skills
+**Languages:** Python · JavaScript · TypeScript  
+**Frontend:** React  
+**Backend:** Node.js · Express · Django  
+**Machine Learning:** PyTorch  
+**Databases:** SQL  
 
 ---
 
-## 📫 Contact
+## 🧩 Selected Projects
+
+### 🌐 Web Application
+Cleanly structured web application built with scalability and maintainability in mind.  
+Focused on real-world use cases and modern backend/frontend practices.
+
+**Stack:** React · Node.js · Express · SQL  
+
+---
+
+### 🤖 Machine Learning Project
+University project applying machine learning concepts to real datasets.  
+Includes data preprocessing, model training, and evaluation.
+
+**Stack:** Python · PyTorch · SQL  
+
+---
+
+## 📊 GitHub Activity
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedosamaeg&show_icons=true&theme=default"/>
+</p>
+
+---
+
+## 📫 Get in Touch
 - **Email:** mohamedosamaegy1@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/mohamed-selim-249109239  
-- **GitHub:** https://github.com/mohamedosamaeg
