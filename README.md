@@ -28,7 +28,6 @@ I care about:
 - clean code
 - real-world logic
 - scalable solutions  
-—not tutorials for show.
 
 ---
 
