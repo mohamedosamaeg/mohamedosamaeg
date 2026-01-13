@@ -1,4 +1,4 @@
-<h1 align="center">👋 Mohamed Selim</h1>
+<h1 align="center"> Mohamed Selim</h1>
 
 <p align="center">
 🚀 Junior Software Developer <br/>
